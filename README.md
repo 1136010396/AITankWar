@@ -5,7 +5,11 @@ AI Tank War 是一个基于 Pygame 开发的坦克对战游戏，融合了经典
 ![游戏主菜单](src/data/image/menu/background.png)
 
 ## 演示视频
-<video src="src/external_data/tank_show.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+src/external_data/tank_show.mp4
+<video width="640" height="480" controls>
+  <source src="src/external_data/tank_show.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 游戏特色
 
