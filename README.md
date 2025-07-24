@@ -1,8 +1,22 @@
 # AI Tank War
 
-AI Tank War 是一个基于 Pygame 开发的坦克对战游戏，融合了经典坦克大战的游戏玩法和现代 AI 对战元素。
+<div align="center">
 
 ![游戏主菜单](src/data/image/menu/background.png)
+
+**🎮 AI 赋能坦克大战游戏**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)](https://github.com)
+
+*让 AI 让坦克大战游戏更加智能有趣* ✨
+
+</div>
+
+---
+AI Tank War 是一个基于 Pygame 开发的坦克对战游戏，融合了经典坦克大战的游戏玩法和现代 AI 对战元素。
+
 
 ### [演示视频](https://www.bilibili.com/video/BV1mu8TzsEX7)
 
